@@ -17,7 +17,7 @@ pkgrel=1
 epoch=1
 
 source=(
-        "git+https://github.com/microsoft/WSL2-Linux-Kernel.git#branch=linux-msft-wsl-6.1.y"
+        "git+https://github.com/microsoft/WSL2-Linux-Kernel.git#branch=linux-msft-wsl-6.6.y"
         "dkms.conf"
         "extra-defines.h"
 )
